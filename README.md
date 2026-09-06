@@ -79,3 +79,5 @@ Power BI Dashboard
      │
      ▼
 Recommendations
+<img width="774" height="440" alt="image" src="https://github.com/user-attachments/assets/33b396ad-0cc2-4ed5-9c86-748816b5f883" />
+
